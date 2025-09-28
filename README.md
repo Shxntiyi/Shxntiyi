@@ -52,14 +52,3 @@ Como desarrollador principal del backend, mis responsabilidades incluyeron:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-tarazona-fuentes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chantiyi2802@gmail.com)
-
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shxntiyi&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shxntiyi&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shxntiyi&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
